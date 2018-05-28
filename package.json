@@ -1,0 +1,18 @@
+{
+  "name": "azure-ml-webservice",
+  "version": "1.0.0",
+  "description": "A wrapper to call Azure ML web services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "azure",
+    "ml"
+  ],
+  "author": "Nicolas Meseth",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
