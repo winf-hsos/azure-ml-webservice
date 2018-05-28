@@ -4,7 +4,7 @@ A library that makes it easy to call a published machine learning model from Nod
 
 Set your API key, host and path according to your Azure ML subscription. See `test.js` for an example:
 
-```
+```js
 var ml = require('./index');
 
 var data = {
