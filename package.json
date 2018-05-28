@@ -1,6 +1,6 @@
 {
   "name": "azure-ml-webservice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper to call Azure ML web services.",
   "main": "index.js",
   "scripts": {
