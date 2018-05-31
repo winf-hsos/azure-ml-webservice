@@ -21,7 +21,7 @@ var predict = function predict(dataInput) {
         }
 
         var data = {
-            Inputs: { input1: dataInput }, GlobalParameters: {}
+            Inputs: dataInput , GlobalParameters: {}
         }
 
         var dataString = JSON.stringify(data)
